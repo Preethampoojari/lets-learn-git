@@ -1,3 +1,3 @@
 a=5
 b=7
-print("a+b=",a+b)
+print("the sum of a+b=",a+b)
